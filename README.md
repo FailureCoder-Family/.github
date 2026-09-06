@@ -26,6 +26,19 @@ We regularly upload free, hands-on tutorials, project breakdowns, and developer 
 * **Developer Roadmaps:** Curated paths covering Web Development, Backend Architecture, and DevOps.
 * **Community Open Source Projects:** Collaborative initiatives designed for first-time contributors to practice Git and pull requests.
 * **Developer Cheatsheets:** Reference guides, CLI shortcuts, and interview prep kits.
+---
+
+## 🤝 How to Contribute
+Community contributions are the heart of this organization:
+1. **Fork** any repository you want to improve.
+2. Create a new branch (`git checkout -b feature/awesome-feature`).
+3. Commit your changes and open a **Pull Request (PR)**.
+4. If you find a project helpful, don't forget to drop a **Star ⭐** to support the creator!
+
+---
+## 🌐 Connect With Us
+* **YouTube:** [@FailureCoder](https://www.youtube.com/@Failure_Coder_easy)
+---
 
 <p align="center">
   <b>Fail early, learn fast.</b><br>
