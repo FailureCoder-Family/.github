@@ -1,5 +1,7 @@
-# <img src="LOgo_for_my.jpeg" width="40" height="40" align="center" alt="Failure Coder Logo"> Failure Coder
-
+<h1>
+  <img src="LOgo_for_my.jpeg" width="36" height="36" style="vertical-align: -6px;" alt="Failure Coder Logo">
+  Failure Coder
+</h1>
 > *"Every error is just another step toward mastery."*
 
 Welcome to **Failure Coder**! We are an open-source, community-driven tech platform dedicated to making software engineering, programming, and core computer science concepts accessible, practical, and completely free for everyone. 
